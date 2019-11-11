@@ -1,1 +1,2 @@
 puts "Ruby!"
+puts "Rails"
